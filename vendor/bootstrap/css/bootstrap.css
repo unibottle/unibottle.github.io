@@ -571,9 +571,9 @@ pre code {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .container {
-    max-width: 1140px;
+    max-width: 10px;
   }
 }
 
@@ -1339,7 +1339,7 @@ pre code {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .col-xl {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -3117,7 +3117,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .dropdown-menu-xl-left {
     right: auto;
     left: 0;
@@ -4375,7 +4375,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .navbar-expand-xl {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
@@ -5937,7 +5937,7 @@ a.close.disabled {
 
 @media (min-width: 1200px) {
   .modal-xl {
-    max-width: 1140px;
+    max-width: 1400px;
   }
 }
 
