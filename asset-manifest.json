@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/unibottle/unibottle.github.io/static/css/main.4e52eead.chunk.css",
+    "main.js": "/unibottle/unibottle.github.io/static/js/main.481feee4.chunk.js",
+    "main.js.map": "/unibottle/unibottle.github.io/static/js/main.481feee4.chunk.js.map",
+    "runtime-main.js": "/unibottle/unibottle.github.io/static/js/runtime-main.a508132e.js",
+    "runtime-main.js.map": "/unibottle/unibottle.github.io/static/js/runtime-main.a508132e.js.map",
+    "static/js/2.23c17282.chunk.js": "/unibottle/unibottle.github.io/static/js/2.23c17282.chunk.js",
+    "static/js/2.23c17282.chunk.js.map": "/unibottle/unibottle.github.io/static/js/2.23c17282.chunk.js.map",
+    "static/js/3.13f1a13a.chunk.js": "/unibottle/unibottle.github.io/static/js/3.13f1a13a.chunk.js",
+    "static/js/3.13f1a13a.chunk.js.map": "/unibottle/unibottle.github.io/static/js/3.13f1a13a.chunk.js.map",
+    "index.html": "/unibottle/unibottle.github.io/index.html",
+    "static/css/main.4e52eead.chunk.css.map": "/unibottle/unibottle.github.io/static/css/main.4e52eead.chunk.css.map",
+    "static/js/2.23c17282.chunk.js.LICENSE.txt": "/unibottle/unibottle.github.io/static/js/2.23c17282.chunk.js.LICENSE.txt",
+    "static/media/bag_bin.7e84c218.png": "/unibottle/unibottle.github.io/static/media/bag_bin.7e84c218.png",
+    "static/media/bottle_pant.56d359dc.png": "/unibottle/unibottle.github.io/static/media/bottle_pant.56d359dc.png",
+    "static/media/figure_bag.c70e4447.png": "/unibottle/unibottle.github.io/static/media/figure_bag.c70e4447.png",
+    "static/media/figure_bin.ba4a48b1.png": "/unibottle/unibottle.github.io/static/media/figure_bin.ba4a48b1.png",
+    "static/media/main_picture.3aa0fb1c.png": "/unibottle/unibottle.github.io/static/media/main_picture.3aa0fb1c.png",
+    "static/media/unibottle_bakke2.f8ad4424.png": "/unibottle/unibottle.github.io/static/media/unibottle_bakke2.f8ad4424.png",
+    "static/media/App.css": "/unibottle/unibottle.github.io/static/media/web_trash.27bc121a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a508132e.js",
+    "static/js/2.23c17282.chunk.js",
+    "static/css/main.4e52eead.chunk.css",
+    "static/js/main.481feee4.chunk.js"
+  ]
+}
